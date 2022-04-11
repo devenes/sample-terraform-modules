@@ -1,0 +1,14 @@
+{
+  "Modules": [
+    {
+      "Key": "tf-vpc",
+      "Source": "../modules",
+      "Dir": "../modules"
+    },
+    {
+      "Key": "",
+      "Source": "",
+      "Dir": "."
+    }
+  ]
+}
